@@ -1,4 +1,4 @@
-
+###HC3T5 - Tâche 5 : Déterminer le type d’un triangle avec des gardes
 
 ### Explication
 - La fonction `triangleType` prend trois côtés `a`, `b`, `c`.
