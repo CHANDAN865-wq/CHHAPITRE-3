@@ -1,4 +1,4 @@
-
+###HC3T4 - Tâche 4 : Calculer l’aire d’un triangle avec la formule de Héron
 
 ### Explication
 - On définit une fonction `triangleArea` qui prend trois côtés `a`, `b`, `c`.
