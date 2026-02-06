@@ -1,4 +1,4 @@
-
+###HC3T6 - Tâche avancée 6 : Vérifier une année bissextile avec if-then-else
 
 ### Explication
 - La fonction `isLeapYear` prend une année (type `Int`).
